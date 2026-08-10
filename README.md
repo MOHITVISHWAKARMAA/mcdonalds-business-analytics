@@ -55,9 +55,9 @@ The repository contains exported dashboard previews (PNG) and links to full Powe
 
 > If `05_Dashboard_Preview/Summary.png` exists the image will render here. Otherwise open Dashboard Previews (link in Project Files).
 
-![Executive Summary](<img width="1322" height="764" alt="Summary" src="https://github.com/user-attachments/assets/ff327f08-add4-44b7-a95e-b301e9416ba2" />
+![Executive Summary](<img width="1325" height="762" alt="Home" src="https://github.com/user-attachments/assets/b7645420-9bbe-4cf3-974a-be41c6f07028" />
 
-)
+, <img width="1297" height="722" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/8dbdd379-948d-49aa-88cc-128b5a0f66e0" /> , <img width="1317" height="737" alt="Customer_Analytics" src="https://github.com/user-attachments/assets/83d33e23-ff7e-41c9-b13d-523f591389c7" /> ,<img width="1317" height="730" alt="Product_Performance" src="https://github.com/user-attachments/assets/e3e9ac00-c0dd-4585-972d-a09093b0295d" />  , <img width="1302" height="737" alt="Store_Operations" src="https://github.com/user-attachments/assets/7046eeb1-9aa7-4d57-a386-dd265169dad1" /> , <img width="1300" height="720" alt="Promotion_Loyalty" src="https://github.com/user-attachments/assets/8d39894a-3936-4303-a4c5-febc4a1192d1" />, <img width="1322" height="764" alt="Summary" src="https://github.com/user-attachments/assets/5372fe21-f95c-4ab8-8594-5be2c1d8db00" />)
 
 
 ---
