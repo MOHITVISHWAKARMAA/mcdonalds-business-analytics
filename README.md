@@ -51,13 +51,46 @@ The repository contains exported dashboard previews (PNG) and links to full Powe
 
 **Preferred story order:** Home → Executive → Customer → Product → Store → Promotion → Summary
 
-**Executive Business Summary**
+## Dashboard Suite
 
-> If `05_Dashboard_Preview/Summary.png` exists the image will render here. Otherwise open Dashboard Previews (link in Project Files).
+The dashboard suite provides an interactive management view across executive performance, customers, products, store operations, promotions and overall business performance.
 
-![Executive Summary](<img width="1325" height="762" alt="Home" src="https://github.com/user-attachments/assets/b7645420-9bbe-4cf3-974a-be41c6f07028" />
+**Preferred story order:** Home → Executive → Customer → Product → Store → Promotion → Summary
 
-, <img width="1297" height="722" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/8dbdd379-948d-49aa-88cc-128b5a0f66e0" /> , <img width="1317" height="737" alt="Customer_Analytics" src="https://github.com/user-attachments/assets/83d33e23-ff7e-41c9-b13d-523f591389c7" /> ,<img width="1317" height="730" alt="Product_Performance" src="https://github.com/user-attachments/assets/e3e9ac00-c0dd-4585-972d-a09093b0295d" />  , <img width="1302" height="737" alt="Store_Operations" src="https://github.com/user-attachments/assets/7046eeb1-9aa7-4d57-a386-dd265169dad1" /> , <img width="1300" height="720" alt="Promotion_Loyalty" src="https://github.com/user-attachments/assets/8d39894a-3936-4303-a4c5-febc4a1192d1" />, <img width="1322" height="764" alt="Summary" src="https://github.com/user-attachments/assets/5372fe21-f95c-4ab8-8594-5be2c1d8db00" />)
+### 🏠 Home / Navigation
+
+![Home Dashboard](05_Dashboard_Preview/<img width="1325" height="762" alt="Home" src="https://github.com/user-attachments/assets/a8390bf7-cae5-4b51-ba3d-bd48903e4f56" />
+)
+
+### 📊 Executive Dashboard
+
+![Executive Dashboard](05_Dashboard_Preview/<img width="1297" height="722" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/d322595d-c9e8-4546-a154-f8cb4c81efde" />
+)
+
+### 👥 Customer Analytics
+
+![Customer Analytics Dashboard](05_Dashboard_Preview/<img width="1317" height="737" alt="Customer_Analytics" src="https://github.com/user-attachments/assets/27c12f55-bb65-4277-8fc2-caec07c7f93f" />
+)
+
+### 🍔 Product Performance
+
+![Product Performance Dashboard](05_Dashboard_Preview/<img width="1317" height="730" alt="Product_Performance" src="https://github.com/user-attachments/assets/643a4264-dda9-40dc-93ca-a1df8aaff421" />
+)
+
+### 🏪 Store & Operations
+
+![Store & Operations Dashboard](05_Dashboard_Preview/<img width="1302" height="737" alt="Store_Operations" src="https://github.com/user-attachments/assets/bff83fe3-4f5b-4ab6-9232-5b044a8ba0b6" />
+)
+
+### 🎯 Promotion & Loyalty
+
+![Promotion & Loyalty Dashboard](05_Dashboard_Preview/)<img width="1300" height="720" alt="Promotion_Loyalty" src="https://github.com/user-attachments/assets/e227ece8-e83a-4c07-975c-520fcd936aad" />)
+
+
+### 📋 Executive Business Summary
+
+![Executive Business Summary](05_Dashboard_Preview/<img width="1322" height="764" alt="Summary" src="https://github.com/user-attachments/assets/b78a5d91-f4af-450b-b262-09a141edf14f" />
+)
 
 
 ---
