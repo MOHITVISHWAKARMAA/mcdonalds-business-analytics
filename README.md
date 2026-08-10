@@ -49,7 +49,7 @@ A mixed-method BI approach using SQL-based data validation and transformation, a
 
 The repository contains exported dashboard previews (PNG) and links to full Power BI artifacts. Where PNG previews are available in `05_Dashboard_Preview/` they will render below. If a preview image is not present in the repo the README links to the external Drive preview.
 
-**Preferred story order:** Summary → Executive → Customer → Product → Store → Promotion
+**Preferred story order:** Home → Executive → Customer → Product → Store → Promotion → Summary
 
 **Executive Business Summary**
 
@@ -62,7 +62,7 @@ The repository contains exported dashboard previews (PNG) and links to full Powe
 
 ---
 
-## �� Explore the Project
+## 🔎 Explore the Project
 
 | Area | What it contains |
 |---|---|
@@ -111,7 +111,7 @@ Power BI, DAX, SQL (Postgres/MySQL-compatible), Excel, Google Drive for large ar
 Key QA approaches are documented in `09_QA/README.md`. Validation includes row counts, duplicate checks, referential integrity and reconciliation of summary KPIs between SQL and Power BI.
 
 ## Presentation
-A consulting-style presentation is available in the `` folder (PPTX + PDF). The presentation summarizes business context, approach, key insights and recommended next steps.
+A consulting-style presentation is available in the `07_Presentation/` folder (PPTX + PDF). The presentation summarizes business context, approach, key insights and recommended next steps.
 
 ## Author
 
