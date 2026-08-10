@@ -137,14 +137,3 @@ PORTFOLIO_CHECKLIST.md
 ```
 
 ---
-
-## Next steps (recommended)
-
-1. Verify Drive folder sharing: Anyone with the link → Viewer.
-2. Add any missing PNG previews to `05_Dashboard_Preview/` (files should be <25 MB).
-3. If you want large PBIX files included in the repo, use Git LFS and document the workflow.
-
----
-
-### Repository status
-Portfolio packaging & QA phase — documentation and links are in place. Pending: some dashboard preview images and in-repo PBIX/SQL artifacts.
