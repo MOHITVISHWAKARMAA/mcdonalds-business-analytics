@@ -118,22 +118,3 @@ Mohit Vishwakarma — Business Analyst / BI Consultant
 
 ---
 
-## Repository structure (top-level)
-
-```
-01_Project_Documentation/   # Business analysis deliverables (Drive link)
-02_Data/                    # Analytical datasets (Drive link)
-03_SQL/                     # SQL scripts & validation (Drive link)
-04_Power_BI/                # PBIX files & notes (Drive link)
-05_Dashboard_Preview/       # PNG exports (include in-repo when available)
-06_Business_Diagram/        # Editable diagrams (Drive link)
-07_Presentation/            # Consulting presentation (Drive link)
-08_Project_Management/      # Tracker & project controls (Drive link)
-09_QA/                      # QA documentation (Drive link)
-10_Reports/                 # Executive reports (Drive link)
-README.md
-PROJECT_STATUS.md
-PORTFOLIO_CHECKLIST.md
-```
-
----
