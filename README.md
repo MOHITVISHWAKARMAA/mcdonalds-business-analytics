@@ -55,7 +55,8 @@ The repository contains exported dashboard previews (PNG) and links to full Powe
 
 > If `05_Dashboard_Preview/Summary.png` exists the image will render here. Otherwise open Dashboard Previews (link in Project Files).
 
-![Executive Summary](<img width="1322" height="764" alt="Summary" src="https://github.com/user-attachments/assets/f0747e7f-b7e9-48e6-8dee-37be9231676b" />
+![Executive Summary](<img width="1322" height="764" alt="Summary" src="https://github.com/user-attachments/assets/ff327f08-add4-44b7-a95e-b301e9416ba2" />
+
 )
 
 
